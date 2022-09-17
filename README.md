@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I'm a Multi-Instrumentalist; I play 4 different instruments.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=beatsbydan&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbydan)
