@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: I'm a Multi-Instrumentalist; I play 4 different instruments.
 
-\n <img src="https://github-readme-stats.vercel.app/api?username=beatsbydan&show_icons=true&theme=dark"/>
-\n ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbydan)
-\n <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatsbydan"/>
+<img src="https://github-readme-stats.vercel.app/api?username=beatsbydan&show_icons=true&theme=dark"/>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbydan&theme=dark)
+\n <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatsbydan&theme=dark"/>
