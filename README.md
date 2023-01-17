@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on improving my Frontend-Dev skills as well as Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS.
 - 🌱 I’m currently enrolled in the ALX software engineering program.
-- 👯 I’m looking to collaborate on HTML CSS and JavaScript projects.
+- 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS projects.
 - 📫 How to reach me: danielonyeachonam2020@gmail.com.
 - 😄 Pronouns: He/Mr.
 - ⚡ Fun fact: I'm a Multi-Instrumentalist; I play 4 different instruments.
