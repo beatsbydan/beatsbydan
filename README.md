@@ -14,9 +14,9 @@
 </div>
 
 - 🔭 I’m currently working on improving my Frontend-Dev skills as well as Software Engineering.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and ReactJS.
 - 🌱 I’m currently enrolled in the ALX software engineering program.
-- 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS projects.
+- 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS projects. I'm looking to explore Python as well.
 - 📫 How to reach me: danielonyeachonam2020@gmail.com.
 - 😄 Pronouns: He/Mr.
 - ⚡ Fun fact: I'm a Multi-Instrumentalist; I play 4 different instruments.
@@ -27,6 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </div>
 
 ### :fire: My Stats :
