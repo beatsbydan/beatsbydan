@@ -1,4 +1,4 @@
-### Hi there👋 I'm Daniel! I love writing codes and building exceptional web-apps and websites
+### Hi there👋 I'm Daniel! I love to solve problems by writing code
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
@@ -13,9 +13,8 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on improving my Frontend-Dev skills as well as Software Engineering.
+- 🔭 I’m currently involved in Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and ReactJS.
-- 🌱 I’m currently enrolled in the ALX software engineering program.
 - 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS projects. I'm looking to explore Python as well.
 - 📫 How to reach me: danielonyeachonam2020@gmail.com.
 - 😄 Pronouns: He/Mr.
