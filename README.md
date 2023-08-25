@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently involved in Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and ReactJS.
-- 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS projects. I'm looking to explore Python as well.
+- 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS and React-Native projects. I'm looking to explore Python as well.
 - 📫 How to reach me: danielonyeachonam2020@gmail.com.
 - 😄 Pronouns: He/Mr.
 - ⚡ Fun fact: I'm a Multi-Instrumentalist; I play 4 different instruments.
