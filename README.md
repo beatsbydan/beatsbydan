@@ -14,7 +14,7 @@
 </div>
 
 - 🔭 I’m currently involved in Software Engineering.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and ReactJS.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, ReactJS and React-Native.
 - 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS and React-Native projects. I'm looking to explore Python as well.
 - 📫 How to reach me: beatsbydan.dev@gmail.com.
 - 😄 Pronouns: He/Mr.
