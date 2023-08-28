@@ -1,4 +1,4 @@
-### Hi there👋 I'm Daniel! I love to solve problems by writing code
+### Hi there👋 I'm Daniel! I love to solve problems by writing code.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
