@@ -1,4 +1,4 @@
-### Hi there👋 I'm Daniel! I love to solve problems by writing code.
+### Hi there👋 I'm Daniel! I'm a Software Engineer.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
@@ -13,12 +13,9 @@
   </a>
 </div>
 
-- 🔭 I’m currently involved in Software Engineering.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Python, ReactJS and React-Native.
-- 👯 I’m looking to collaborate on HTML CSS and JavaScript as well as React JS, TypeScript and React-Native projects. I'm looking to explore Python as well.
+- 👯 I’m looking to collaborate on any projects.
 - 📫 How to reach me: danielonyeachonam2022@yahoo.com.
-- 😄 Pronouns: He/Mr.
-- ⚡ Fun fact: I'm a Multi-Instrumentalist; I play 4 different instruments.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
