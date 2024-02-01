@@ -13,7 +13,7 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Python, ReactJS and React-Native.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Python, ReactJS, Node.js and React-Native.
 - 👯 I’m looking to collaborate on any projects.
 - 📫 How to reach me: danielonyeachonam2022@yahoo.com.
 
