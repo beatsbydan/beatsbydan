@@ -13,7 +13,7 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Python, ReactJS, Node.js, React-Native and Java.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Java, Python, ReactJS, Node.js, React-Native and SpringBoot.
 - 👯 I’m looking to collaborate on any projects.
 - 📫 How to reach me: danielonyeachonam2022@yahoo.com.
 
@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="SpringBoot" alt="SpringBoot" width="50" height="50"/>&nbsp;
   </div>
 
 ### :fire: My Stats :
